@@ -1,0 +1,56 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tanuki" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#111111</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorOnBackground">#FFFFFF</item>
+        <item name="android:statusBarColor">#222629</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="colorPrimary">#222629</item>
+    </style>
+    <style name="Theme.Tanuki" parent="Base.Theme.Tanuki" />
+    <style name="AppTheme.Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">#1B1B1B</item>
+    </style>
+    <style name="TopSheetDialog" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="CustomMenuTextStyle" parent="TextAppearance.AppCompat.Menu">
+        <item name="fontFamily">@font/ttr</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#222629</item>
+    </style>
+    <style name="CustomDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="DarkAlertDialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <item name="materialAlertDialogTitleTextStyle">@style/DarkDialogTitleText</item>
+        <item name="android:background">#222629</item>
+        <item name="android:colorPrimary">@color/white</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="DarkDialogTitleText" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="CustomDialogItemText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="CustomDatePickerStyle" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <item name="android:colorBackground">#000000</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimary">#364D60</item>
+        <item name="colorOnSurface">@android:color/black</item>
+        <item name="materialCalendarStyle">@style/Custom_MaterialCalendar</item>
+    </style>
+
+    <style name="Custom_MaterialCalendar" parent="@style/Widget.MaterialComponents.MaterialCalendar">
+        <item name="android:background">#000000</item>
+    </style>
+</resources>

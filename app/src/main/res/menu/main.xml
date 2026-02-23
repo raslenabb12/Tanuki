@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/br"
+        android:icon="@drawable/baseline_search_24"
+        android:iconTint="#FFFFFF"
+        android:title="Browse Manga" />
+    <item
+        android:id="@+id/treding_manga"
+        android:icon="@drawable/baseline_local_fire_department_24"
+        android:title="Trending Manga" />
+    <item
+        android:id="@+id/characters"
+        android:icon="@drawable/baseline_people_24"
+        android:title="Popular Characters" />
+    <item
+        android:id="@+id/lib"
+        android:icon="@drawable/baseline_book_24"
+        android:iconTint="#FFFFFF"
+        android:title="Library" />
+    <item
+        android:icon="@drawable/baseline_settings_24"
+        android:title="Settings" />
+    <item
+        android:icon="@drawable/baseline_info_outline_24"
+        android:title="About" />
+</menu>

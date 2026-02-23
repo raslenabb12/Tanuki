@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="-5dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:checkable="true"
+        android:fontFamily="@font/ttlm"
+        android:text="0"
+        android:textColor="#FFFFFF"
+        app:checkedIcon="@drawable/baseline_visibility_24"
+        app:checkedIconVisible="true"
+        app:chipBackgroundColor="@color/selec_2" />
+</LinearLayout>
