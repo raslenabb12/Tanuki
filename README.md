@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 🦝 Tanuki — Manga Tracker & Explorer
+#  Tanuki — Manga Tracker & Explorer
 
 **Tanuki** is a modern Android application designed for manga enthusiasts to track their collections, explore new titles, and sync seamlessly with **AniList** and **MyAnimeList**. Built with Kotlin and following modern Android development practices, Tanuki provides a rich, responsive interface for managing your reading journey.
 
@@ -14,7 +14,7 @@
   <img src="images/sc_1.jpg" alt="Screenshot 1" width="250"/>
 </div>
 
-## ✨ Key Features
+##  Key Features
 
 - **Sync with AniList & MAL**: Authenticate with your favorite tracking services to sync your library and status.
 - **Advanced Manga Search**: Find manga by title, genre, or popularity using powerful search filters.
@@ -23,7 +23,7 @@
 - **Stats and Insights**: Track your reading habits with visual charts and detailed profile statistics.
 - **Modern UI/UX**: Enjoy a smooth, dynamic interface with features like bottom sheets, drawer navigation, and shimmer loading effects.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 Tanuki leverages a variety of modern Android libraries and tools:
 
@@ -39,7 +39,7 @@ Tanuki leverages a variety of modern Android libraries and tools:
 - **HTML Parsing**: [Jsoup](https://jsoup.org/)
 - **UI Components**: Material Components, Lottie, and custom animations.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ Tanuki leverages a variety of modern Android libraries and tools:
 3. Allow Gradle to sync and download dependencies.
 4. Run the app on your device/emulator.
 
-## 📦 Building
+##  Building
 
 To generate a debug APK, run:
 ```bash
@@ -69,11 +69,11 @@ For a release build (requires signing configuration):
 ./gradlew assembleRelease
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! If you have suggestions or find bugs, please feel free to open an issue or submit a pull request.
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
