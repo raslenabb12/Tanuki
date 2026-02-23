@@ -1,11 +1,19 @@
-# 🦝 Tanuki — Manga Tracker & Explorer
-
-**Tanuki** is a modern Android application designed for manga enthusiasts to track their collections, explore new titles, and sync seamlessly with **AniList** and **MyAnimeList**. Built with Kotlin and following modern Android development practices, Tanuki provides a rich, responsive interface for managing your reading journey.
 <div align="center">
   <a href="https://github.com/raslenabb12/Tanuki">
     <img src="https://github.com/raslenabb12/Tanuki/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" alt="AnimeDrop" width="200">
   </a>
 </div>
+
+# 🦝 Tanuki — Manga Tracker & Explorer
+
+**Tanuki** is a modern Android application designed for manga enthusiasts to track their collections, explore new titles, and sync seamlessly with **AniList** and **MyAnimeList**. Built with Kotlin and following modern Android development practices, Tanuki provides a rich, responsive interface for managing your reading journey.
+
+<div align="center">
+  <img src="image/sc_3.jpg" alt="Screenshot 3" width="250"/>
+  <img src="image/sc_2.jpg" alt="Screenshot 2" width="250"/>
+  <img src="image/sc_1.jpg" alt="Screenshot 1" width="250"/>
+</div>
+
 ## ✨ Key Features
 
 - **Sync with AniList & MAL**: Authenticate with your favorite tracking services to sync your library and status.
