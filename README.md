@@ -5,7 +5,7 @@
   <a href="https://github.com/raslenabb12/Tanuki">
     <img src="https://github.com/raslenabb12/Tanuki/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp" alt="AnimeDrop" width="200">
   </a>
-
+</div>
 ## ✨ Key Features
 
 - **Sync with AniList & MAL**: Authenticate with your favorite tracking services to sync your library and status.
