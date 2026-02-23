@@ -2,7 +2,7 @@
 
 **Tanuki** is a modern Android application designed for manga enthusiasts to track their collections, explore new titles, and sync seamlessly with **AniList** and **MyAnimeList**. Built with Kotlin and following modern Android development practices, Tanuki provides a rich, responsive interface for managing your reading journey.
 
-![App Icon](app/src/main/res/drawable/manga_logo.png) 
+![App Icon](app/src/main/res/drawable/mipmap-hdpi/ic_launcher_foreground.webp) 
 
 ## ✨ Key Features
 
