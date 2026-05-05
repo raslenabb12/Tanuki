@@ -43,7 +43,6 @@ Tanuki is built using the latest Android development standards:
 - **Security**: AndroidX Security Crypto for secure storage of OAuth tokens.
 
 ## 📱 Screenshots
-*(Add your app screenshots here!)*
 
 |<img src="images/sc_3.jpg" alt="Screenshot 3" width="250"/>|<img src="images/sc_2.jpg" alt="Screenshot 2" width="250"/>|<img src="images/sc_1.jpg" alt="Screenshot 1" width="250"/>|
 |:---:|:---:|:---:|
