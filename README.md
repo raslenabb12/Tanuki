@@ -46,7 +46,7 @@ Tanuki is built using the latest Android development standards:
 
 |<img src="images/sc_3.jpg" alt="Screenshot 3" width="250"/>|<img src="images/sc_2.jpg" alt="Screenshot 2" width="250"/>|<img src="images/sc_1.jpg" alt="Screenshot 1" width="250"/>|
 |:---:|:---:|:---:|
-| **Discover** | **Manga Info** | **User Profile & Stats** |
+| **Discover** | **Manga Info** | **Search** |
 
 ## 🚀 Getting Started
 
